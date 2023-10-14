@@ -149,7 +149,9 @@
   background-color: whitesmoke;
   width: 100%;
   padding: 20px;
-  margin-top: 16%;
+  position: absolute;
+  bottom: 0;
+  right: 0;
 }
 
 #footer-1 {
